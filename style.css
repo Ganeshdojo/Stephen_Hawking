@@ -186,7 +186,7 @@
     line-height: 1.2;
     opacity: 0.6;
 }
-@media(max-width:991px){
+/* @media(max-width:991px){
     .main-wrapper{
         position: absolute;
         display: flex;
@@ -194,4 +194,4 @@
         height: auto;
         transform: none !important;
     }
-}
+} */
